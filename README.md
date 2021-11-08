@@ -13,6 +13,6 @@ Hemendik gure webgunearen kode-iturria eta gure css pertsonalisatua ikus dezakez
 Arazo bat edo akats bat aurkitzen baduzu, "Issues" atalean deskribatu arazoa eta konponduko dugu!
 
 ### NOR DA ZUEN BABESLEA?
-Kaixo Mundua (kaixomundua.eus)
+[Kaixo Mundua](https://kaixomundua.eus/)
 
 
