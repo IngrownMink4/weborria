@@ -15,4 +15,26 @@ Arazo bat edo akats bat aurkitzen baduzu, "Issues" atalean deskribatu arazoa eta
 ### Nor da zuen babeslea?
 [Kaixo Mundua](https://kaixomundua.eus/)
 
+### Lizentzia
+
+```
+Hainbat autobus bidaiei buruz informatzeko, bidaiei buruz jakiteko edota jaien egunak noiz diren ikusteko webgune bat.
+Copyright (C) 2020 Aupa Autobusak
+
+Programa hau software librea da: birbanatu dezakezu, eta/edo aldatu,
+Software Librearen Fundazioak argitaratutako GNU Lizentzia Publiko
+Orokorraren baldintzen arabera, dela Lizentziaren 3. bertsioaren arabera
+edo dela (nahi baduzu) bertsio berriagoren baten arabera.
+
+Erabilgarria izango delakoan banatzen da programa hau, baina INOLAKO
+BERMERIK GABE; ez du KOMERTZIALIZAGARRITASUNAREN EDO XEDE JAKIN BATERAKO
+EGOKITASUNAREN berme inpliziturik ere. Xehetasun gehiagorako ikusi GNU
+Lizentzia Publiko Orokorra.
+
+Programa honekin batera GNU Lizentzia Publiko Orokorraren kopia bat jaso
+eharko zenuke. Ez baduzu halakorik jaso, ikusi
+<https://www.gnu.org/licenses/>.
+
+```
+
 
